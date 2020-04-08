@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson1</string>
+    <string name="galons_letter" >Galons:</string>
+    <string name="liters">Liters:</string>
+    <string name="_100">100</string>
+    <string name="fill_hint">Введите значение</string>
+    <string name="help">HELP</string>
+    <string name="close">Close</string>
+</resources>

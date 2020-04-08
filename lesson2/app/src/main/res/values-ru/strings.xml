@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Урок 2</string>
+    <string name="enter_amount">Введите сумму чека</string>
+    <string name="input_text">Введите сумму чека</string>
+    <string name="_15">15%</string>
+    <string name="tip">Чай</string>
+    <string name="total">Итого</string>
+</resources>
